@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Samuel, a software developer 👨‍💻 since 2019 🚀. I love building cross-platform apps and websites😋</div>  
+### <div align="center">I'm Samuel, a software developer 👨‍💻 from Ghana 🇬🇭🚀. I love building cross-platform apps and websites😋</div>  
   
 
 - 🔭 I’ve worked on multiple projects with [Hatua Tech](https://hatua.tech/)  
   
 
-- 🌱 I’ve love using Javascript, React and React-Native. I wouldn't say im' a pro but you know, you dont have to boast 😉😝.  
+- 🌱 I’ve love using Javascript, React, React-Native and Electron. I wouldn't say im' a pro but you know, you dont have to boast 😉😝.  
   
 
 - ❓ Would like to explore my talent in fullstack one day. Just not today🌚🙂  
