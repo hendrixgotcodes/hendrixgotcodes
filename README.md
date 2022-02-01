@@ -6,7 +6,7 @@
 ### <div align="center">I'm Samuel, a software developer 👨‍💻 from Ghana 🇬🇭🚀. I love building cross-platform apps and websites😋</div>  
   
 
-- 🔭 I’ve worked on multiple projects with [Hatua Tech](https://hatua.tech/)  
+<!-- - 🔭 I’ve worked on multiple projects with [Hatua Tech](https://hatua.tech/)   -->
   
 
 - 🌱 I’ve love using Javascript, React, React-Native and Electron. I wouldn't say im' a pro but you know, you dont have to boast 😉😝.  
