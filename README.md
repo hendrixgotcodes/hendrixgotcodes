@@ -62,7 +62,7 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://www.flaticon.com/free-icons/docker" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/docker.png?alt=media&token=49446e1a-66b9-437e-b36b-41736df759b1" alt="Docker" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
