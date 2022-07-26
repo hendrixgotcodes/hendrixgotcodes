@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/github-banner.png?alt=media&token=9752db77-4229-4032-9265-e9f476bacd50" align="center" style="width: 100%" />
 </div>  
   
 
