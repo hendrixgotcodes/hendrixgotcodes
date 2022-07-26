@@ -112,18 +112,4 @@
 - [Adding Custom Fonts In Expo React-Native.](https://dev.to/nolimithendrix/adding-custom-fonts-in-expo-react-native-84c)
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/> 
