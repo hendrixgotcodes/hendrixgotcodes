@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-<a href="https://hendrixthedev.web.ap" target="_blank">
+<a href="https://hendrixthedev.web.app" target="_blank">
   <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/samuel-opoku-asare-954845183" target="_blank">
