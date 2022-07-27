@@ -5,6 +5,9 @@
 <br/>
 
 <div align="center">
+<a href="https://hendrixthedev.web.ap" target="_blank">
+  <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/samuel-opoku-asare-954845183" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -16,6 +19,10 @@
 </a>
 <a href="https://stackoverflow.com/users/hendrix" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:asare11samuel@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Email me style="margin-bottom: 5px;" />
 </a>  
 </div> 
  
