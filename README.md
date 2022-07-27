@@ -1,10 +1,29 @@
 <div align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/github-banner.png?alt=media&token=6ec93cec-e04b-402a-94a2-b82834f9d5bb" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-### <div align="center">I'm Samuel, a full-time full-stack developer 👨‍💻 🚀</div>  
-  
+<br/>
+
+<div align="center">
+<a href="https://linkedin.com/in/samuel-opoku-asare-954845183" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/hendrixgotcodes" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/nolimithendrix" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/hendrix" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div> 
+ 
+ <br/>
+ 
+ ## About Meℹ️
+ 
+### <div align="left">I'm Samuel, a full-time full-stack developer 👨‍💻 🚀</div>  
 
 - 🔭 I’m currently working on [Refactor](https://github.com/hendrixgotcodes/Refactor)  
   
@@ -21,7 +40,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set🥷🏾
 <table><tr><td valign="top" width="33%">
 
 
@@ -78,34 +97,27 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/samuel-opoku-asare-954845183" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/hendrixgotcodes" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/nolimithendrix" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/hendrix" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## Github Stats🔥   
+
   
+  <table>
+    <tr width="100%">
+       <td width="50%">
+         <div width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=hendrixgotcodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendrixgotcodes" />
+      </td>
+    </tr>
+  
+  
+</table>
+
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hendrixgotcodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-
-## Recent Blog Posts  
+## Recent Blog Posts📔✍🏾  
 
 
 ### React Native.  
