@@ -111,10 +111,10 @@
   
   <table>
     <tr width="100%">
-       <td width="50%">
+       <td width="50%" valign="top">
          <div width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=hendrixgotcodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendrixgotcodes" />
       </td>
     </tr>
