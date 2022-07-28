@@ -3,7 +3,9 @@
 </div>
 
 <br/>
-
+<div align="center">
+  <img src=https://komarev.com/ghpvc/?username=hendrixgotcodes&color=172b43 />
+</div>
 <div align="center">
 <a href="https://hendrixthedev.web.app" target="_blank">
   <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
