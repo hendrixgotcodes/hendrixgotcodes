@@ -74,8 +74,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/jest.svg?alt=media&token=446a9657-8102-43d5-a511-3c2d5bd52d21" alt="Jest" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/npm.svg?alt=media&token=e228f054-65df-494b-ba0e-92908747f241" height="50" alt="npm" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/react-testing-library.png?alt=media&token=07c15953-c07c-4571-8b3a-7e104cf0c5de" alt="React Testing Library" height="50" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/yarn.svg?alt=media&token=213de28e-696f-4aaf-aa90-61a0ecb2a6e8" height="50" alt="npm" />
 </div>
 
