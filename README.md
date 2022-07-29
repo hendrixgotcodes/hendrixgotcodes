@@ -75,6 +75,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/npm.svg?alt=media&token=e228f054-65df-494b-ba0e-92908747f241" height="50" alt="npm" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/yarn.svg?alt=media&token=213de28e-696f-4aaf-aa90-61a0ecb2a6e8" height="50" alt="npm" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -102,7 +104,8 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> 
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/github.svg?alt=media&token=6045462b-3268-4a8c-9ce2-598fece5f51a" height="50" />
 </div>
 
 </td></tr></table>  
