@@ -47,7 +47,7 @@
 - ❓ Ask me about anything related to frontend and backend technologies
   
 
-- ⚡ Fun fact: I am nocturnal  
+- ⚡ Fun fact: Nocturnal  
   
 
 <br/>  
