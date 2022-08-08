@@ -34,7 +34,7 @@
  
  <br/>
  
- ## About Meℹ️
+ ## About Me ℹ️
  
 ### <div align="left">I'm Samuel, a full-time full-stack developer 👨‍💻 🚀</div>  
 
