@@ -80,6 +80,8 @@
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/react-testing-library.png?alt=media&token=07c15953-c07c-4571-8b3a-7e104cf0c5de" alt="React Testing Library" height="50" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/yarn.svg?alt=media&token=213de28e-696f-4aaf-aa90-61a0ecb2a6e8" height="50" alt="npm" />
 </div>
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/gsap.png?alt=media&token=24814a16-248f-41f0-a5ad-a421163e1550" height="50" alt="gsap" />
+</div>
 
 </td><td valign="top" width="33%">
 
