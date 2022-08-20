@@ -79,9 +79,10 @@
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/npm.svg?alt=media&token=e228f054-65df-494b-ba0e-92908747f241" height="50" alt="npm" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/react-testing-library.png?alt=media&token=07c15953-c07c-4571-8b3a-7e104cf0c5de" alt="React Testing Library" height="50" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/yarn.svg?alt=media&token=213de28e-696f-4aaf-aa90-61a0ecb2a6e8" height="50" alt="npm" />
-</div>
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/gsap.png?alt=media&token=24814a16-248f-41f0-a5ad-a421163e1550" height="50" alt="gsap" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/eslint.svg?alt=media&token=6699d319-1717-480c-a263-1efe356dc013" height="50" alt="gsap" />
 </div>
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/prettier.svg?alt=media&token=8b556128-b530-4201-aabe-39a7bda9a9d3" height="50" alt="gsap" />
 
 </td><td valign="top" width="33%">
 
