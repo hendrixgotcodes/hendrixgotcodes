@@ -80,9 +80,9 @@
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/react-testing-library.png?alt=media&token=07c15953-c07c-4571-8b3a-7e104cf0c5de" alt="React Testing Library" height="50" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/yarn.svg?alt=media&token=213de28e-696f-4aaf-aa90-61a0ecb2a6e8" height="50" alt="npm" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/gsap.png?alt=media&token=24814a16-248f-41f0-a5ad-a421163e1550" height="50" alt="gsap" />
-<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/eslint.svg?alt=media&token=6699d319-1717-480c-a263-1efe356dc013" height="50" alt="gsap" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/eslint.svg?alt=media&token=6699d319-1717-480c-a263-1efe356dc013" height="50" alt="eslint" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/prettier.svg?alt=media&token=8b556128-b530-4201-aabe-39a7bda9a9d3" height="50" alt="prettier" />
 </div>
-<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/prettier.svg?alt=media&token=8b556128-b530-4201-aabe-39a7bda9a9d3" height="50" alt="gsap" />
 
 </td><td valign="top" width="33%">
 
@@ -96,7 +96,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
-<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/mocha.svg?alt=media&token=3533f743-9844-4310-99fc-b2b1f07f513b" alt="Mocha" height="50" />  
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/mocha.svg?alt=media&token=3533f743-9844-4310-99fc-b2b1f07f513b" alt="Mocha" height="50" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/eslint.svg?alt=media&token=6699d319-1717-480c-a263-1efe356dc013" height="50" alt="eslint" />
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/prettier.svg?alt=media&token=8b556128-b530-4201-aabe-39a7bda9a9d3" height="50" alt="prettier" />
 </div>
 
 </td><td valign="top" width="33%">
