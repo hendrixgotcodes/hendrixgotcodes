@@ -41,7 +41,7 @@
 - 🔭 I’m currently working on [Refactor](https://github.com/hendrixgotcodes/Refactor)  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+-  I’m currently learning Docker and Kubernetes  
   
 
 - ❓ Ask me about anything related to frontend and backend technologies
