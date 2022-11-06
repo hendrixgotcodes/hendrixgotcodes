@@ -38,7 +38,7 @@
  
 ### <div align="left">I'm Samuel, a full-time full-stack developer 👨‍💻 🚀</div>  
 
--  I’m currently working on [Refactor](https://github.com/hendrixgotcodes/Refactor)  
+- 🔭 I’m currently working on [Refactor](https://github.com/hendrixgotcodes/Refactor)  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
