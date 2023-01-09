@@ -120,7 +120,7 @@
 <br/>  
 
 
-## Github Stats🔥   
+## Github Stats <img src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/github-stats.gif?alt=media&token=96dfcec9-04d6-46ce-814b-56da85aec12d" height="25" />
 
   
   <table>
