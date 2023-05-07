@@ -99,6 +99,8 @@
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/mocha.svg?alt=media&token=3533f743-9844-4310-99fc-b2b1f07f513b" alt="Mocha" height="50" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/eslint.svg?alt=media&token=6699d319-1717-480c-a263-1efe356dc013" height="50" alt="eslint" />
 <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/prettier.svg?alt=media&token=8b556128-b530-4201-aabe-39a7bda9a9d3" height="50" alt="prettier" />
+  <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/ruby.svg?alt=media&token=24d249f4-a027-46f1-b101-acbc04d95da1" height="50" alt="prettier" />
+  <img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/hendrixthedev.appspot.com/o/rails.svg?alt=media&token=9b83b800-2602-4fe8-8d97-3af6d0761112" height="80" alt="prettier" />
 </div>
 
 </td><td valign="top" width="33%">
