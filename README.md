@@ -36,12 +36,11 @@
  
  ## About Meℹ️
  
-### <div align="left">I'm Samuel, a full-time full-stack developer 👨‍💻 🚀</div>  
+### <div align="left">I'm Samuel, a Lead Software Engineer 👨‍💻 🚀</div>  
 
-- 🔭 I’m currently working on [Refactor](https://github.com/hendrixgotcodes/Refactor)  
-  
+- 🤖 Building Ghana's first E-Commerce AI Customer Assistant for [Steaman Mall](https://www.steaman.com)
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+- 🔭 I’m currently working on [React Native Versatile Onboarding](https://www.npmjs.com/package/react-native-versatile-onboarding)  
   
 
 - ❓ Ask me about anything related to frontend and backend technologies
