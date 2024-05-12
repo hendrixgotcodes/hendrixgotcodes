@@ -40,7 +40,7 @@
 
 - 🤖 Building Ghana's first E-Commerce AI Customer Assistant for [Steaman Mall](https://www.steaman.com)
 
-- 🔭 I’m currently working on [React Native Versatile Onboarding](https://www.npmjs.com/package/react-native-versatile-onboarding)  
+- 🔭 Currently working on [React Native Versatile Onboarding](https://www.npmjs.com/package/react-native-versatile-onboarding)  
   
 
 - ❓ Ask me about anything related to frontend and backend technologies
