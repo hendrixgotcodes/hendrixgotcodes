@@ -147,6 +147,7 @@
 
 ### React Native.  
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a Rails App on Ubuntu 20.04 with Nginx and Phusion Passenger: A Comprehensive Guide](https://dev.to/nolimithendrix/hosting-a-rails-app-on-ubuntu-2004-with-nginx-and-phusion-passenger-a-comprehensive-guide-4jb8)
 - [Adding Custom Fonts In Expo React-Native.](https://dev.to/nolimithendrix/adding-custom-fonts-in-expo-react-native-84c)
 <!-- BLOG-POST-LIST:END -->  
 
