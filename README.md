@@ -35,8 +35,6 @@
  <br/>
  
  ## About Meℹ️
- 
-### <div align="left">I'm Samuel, a Lead Software Engineer 👨‍💻 🚀</div>  
 
 - 🤖 Building Ghana's first E-Commerce AI Customer Assistant for [Steaman Mall](https://www.steaman.com)
 
